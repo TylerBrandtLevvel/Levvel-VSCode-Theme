@@ -2,7 +2,7 @@
 	"name": "Levvel",
 	"type": "dark",
 	"colors": {
-		"editor.background": "#222222",
+		"editor.background": "#00253B",
 		"editor.foreground": "#eeffff",
 		"activityBarBadge.background": "#007acc",
 		"sideBarTitle.foreground": "#bbbbbb"
